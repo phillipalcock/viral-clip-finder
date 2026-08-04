@@ -1,5 +1,7 @@
 # Viral Clip Finder
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A Claude Code skill for turning recordings and transcripts into ranked short-form video clips for Reels, TikTok, and YouTube Shorts.
 
 ## Install
